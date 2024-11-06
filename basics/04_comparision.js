@@ -20,3 +20,7 @@ console.log(2 != 1)
 //console.log(undefined > 0) //false
 //console.log(undefined < 0) //false
 //console.log(undefined == 0) //false
+
+
+// ===
+console.log("2" === 2) //false, beacase conversion not here because of 3 equal
